@@ -1,5 +1,5 @@
 # portfolio
 This is my portfolio
-create a navbar
-slider 
+create with a navbar
+slider and
 use a different images
